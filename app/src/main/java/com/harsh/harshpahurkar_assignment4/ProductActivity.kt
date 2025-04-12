@@ -7,7 +7,7 @@ import androidx.activity.viewModels
 import androidx.appcompat.app.AppCompatActivity
 import androidx.lifecycle.lifecycleScope
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.example.assignmentapp.databinding.ActivityProductBinding
+import com.harsh.harshpahurkar_assignment4.databinding.ActivityProductBinding
 import kotlinx.coroutines.flow.collectLatest
 import kotlinx.coroutines.launch
 

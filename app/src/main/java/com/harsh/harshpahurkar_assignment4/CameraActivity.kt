@@ -14,8 +14,7 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.core.app.ActivityCompat
 import androidx.core.content.ContextCompat
 import androidx.core.content.FileProvider
-import com.example.assignmentapp.R
-import com.example.assignmentapp.databinding.ActivityCameraBinding
+import com.harsh.harshpahurkar_assignment4.databinding.ActivityCameraBinding
 import java.io.File
 import java.io.IOException
 import java.text.SimpleDateFormat
