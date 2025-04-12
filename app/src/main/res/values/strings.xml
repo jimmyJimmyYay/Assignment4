@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Assignment App</string>
+
+    <!-- Product Database Strings -->
+    <string name="add_product">Add New Product</string>
+    <string name="edit_product">Edit Product</string>
+    <string name="product_title_hint">Product Title</string>
+    <string name="product_description_hint">Product Description</string>
+    <string name="save_button">Save</string>
+    <string name="update_button">Update</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="delete_first_button">Delete First</string>
+    <string name="edit_last_button">Edit Last</string>
+    <string name="product_saved">Product saved successfully</string>
+    <string name="product_updated">Product updated successfully</string>
+    <string name="fill_all_fields">Please fill all fields</string>
+    <string name="product_id">ID: %1$d</string>
+
+    <!-- Camera App Strings -->
+    <string name="camera_app_title">Camera App</string>
+    <string name="capture_image">Capture Image</string>
+    <string name="image_captured">Image captured successfully!</string>
+    <string name="image_load_failed">Failed to load captured image</string>
+    <string name="image_capture_cancelled">Image capture cancelled</string>
+    <string name="camera_permission_required">Camera permission is required to take pictures</string>
+    <string name="camera_permission_rationale">Camera permission is needed to take pictures</string>
+    <string name="error_creating_file">Error occurred while creating the image file</string>
+    <string name="no_camera_app">No camera app found on your device</string>
+    <string name="captured_image">Captured Image</string>
+
+    <!-- Main Activity Strings -->
+    <string name="database_section_title">Room Database</string>
+    <string name="database_section_desc">Create, view, update, and delete products in the database</string>
+    <string name="camera_section_title">Camera App</string>
+    <string name="camera_section_desc">Take photos using your device camera</string>
+</resources>

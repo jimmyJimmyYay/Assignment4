@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base colors -->
+    <color name="primary">#1976D2</color>
+    <color name="primary_dark">#1565C0</color>
+    <color name="primary_light">#BBDEFB</color>
+    <color name="accent">#FF5722</color>
+    <color name="secondary">#4CAF50</color>
+
+    <!-- Text colors with high contrast -->
+    <color name="text_primary_light">#FFFFFF</color>
+    <color name="text_secondary_light">#E0E0E0</color>
+    <color name="text_primary_dark">#212121</color>
+    <color name="text_secondary_dark">#757575</color>
+
+    <!-- Background colors with good contrast against text -->
+    <color name="background_light">#FAFAFA</color>
+    <color name="background_dark">#303030</color>
+    <color name="card_background">#FFFFFF</color>
+
+    <!-- Default colors -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
